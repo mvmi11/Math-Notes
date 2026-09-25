@@ -1,3 +1,8 @@
+# Calculate months for 130 days
+days = 130
+months_approx = days / 30
+print(f"{months_approx:.2f}")
+
 # Math-Notes
 An academic Python repository implementing Gradient Descent optimization from scratch, demonstrating the power of Calculus and Derivatives in AI
 # 📉 Calculus in AI: Gradient Descent Optimization Solver
